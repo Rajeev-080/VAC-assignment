@@ -5,7 +5,7 @@ We have used Simple Linear Regression And Multiple Linear Regression to complete
 
 Summary of the Project:
 
-Step-1 : Got the dataset from github "tmdb_5000_movies" and imported the dataset into our project.
+Step-1 : Got the dataset from github "healthcare-dataset-stroke-data" and imported the dataset into our project.
 
 Step-2 : Done Some cleaning process for the Analysis and selected the important fields for the process.
 
